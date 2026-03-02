@@ -83,8 +83,5 @@ After completing this project, you will understand:
 **Ishaan Sharma**  
 B.Tech Artificial Intelligence & Machine Learning (3rd Year)
 
----  
-
-⭐ If you found this repository helpful, feel free to star it!
 
 ## 📂 Project Structure
